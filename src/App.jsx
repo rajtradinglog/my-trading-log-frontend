@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import { useState } from "react";
-import TradingHeader from "./components/Tradingheader";
+import TradingHeader from "./components/TradingHeader";
 import TradeJournalForm from "./components/TradeJournalForm";
 import ViewData from "./components/ViewData";
 
